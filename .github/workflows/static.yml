@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Made by GreekWare - Cybersec</title>
+    <style>
+        /* Dark theme styling */
+        body {
+            background-color: #1a1a1a;
+            color: #f5f5f5;
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Centering content */
+        .container {
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+            color: #ccc;
+        }
+
+        /* Link style */
+        a {
+            color: #00bcd4;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Logo styling */
+        .logo {
+            width: 200px;
+            margin-top: 20px;
+        }
+
+        /* Footer styling */
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+    <!-- Import Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Logo and title -->
+
+		<h1>Welcome to Cyber Sec </h1>
+        <p>Learn About Cyber Security and Ethical Hacking .</p>
+
+        <!-- Telegram link -->
+        <p><a href="https://t.me/+r1eaZ4d1ic5hNzVk" target="_blank">Join our Telegram Channel</a></p>
+    </div>
+	 <img src="https://www.google.com/imgres?q=cyber%20crime%20cyber%20security%20logo%20black&imgurl=https%3A%2F%2Fas2.ftcdn.net%2Fjpg%2F02%2F36%2F31%2F79%2F1000_F_236317941_h1q0GdYyoJ2otbqbeJjiBM9phjoZeziB.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fcyber-attack-logo-hacker-icon-cyber-crime-or-threats-on-dark-background%2F236317941&docid=48cvahUjWD2AsM&tbnid=oXerDUpn3r2foM&vet=12ahUKEwiIvKzkqc-KAxUu7rsIHYLaNYAQM3oECHAQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiIvKzkqc-KAxUu7rsIHYLaNYAQM3oECHAQAAO" alt="Cybersecurity Logo" class="logo">
+
+    <!-- Footer with copyright -->
+    <footer>
+        <p>&copy; 2024 Cybersec. All Rights Reserved.</p>	
+</body>
+</html>
